@@ -1,0 +1,414 @@
+
+
+
+
+
+@media only screen and (min-width: 1680px) {
+  
+
+  /*
+  =================
+   episode-PAGE
+  =================
+   */
+
+   .ep-text {
+    padding: 35px 15px;
+  }
+    
+
+
+
+}
+
+
+
+@media only screen and (min-width: 1800px) {
+  
+
+  /*
+  =================
+   episode-PAGE
+  =================
+   */
+
+   .ep-text {
+    padding: 65px 20px;
+  }
+    
+
+
+}
+
+
+
+@media only screen and (min-width: 1300px) and (max-width: 1454px) {
+  
+
+  .bnr-text {
+    margin-top: -120px;
+    position: relative;
+  }
+
+
+  /*
+  =================
+   episode-PAGE
+  =================
+   */
+
+  .ep-text h3, .ep-text h4 {
+    font-size: 21px;
+  }
+
+  .ep-text p {
+    font-size: 19px;
+  }
+
+  
+
+
+
+}
+
+
+
+
+
+
+@media only screen and (min-width: 1200px) and (max-width: 1299px) {
+  
+  .bnr-text {
+    margin-top: -115px;
+    position: relative;
+  }
+
+  .bnr-text p {
+    font-size: 20px;
+  }
+
+  .navbar ul li a {
+    font-size: 32px;
+  }
+
+
+  /*
+  =================
+   episode-PAGE
+  =================
+   */
+
+  .ep-text h3, .ep-text h4 {
+    font-size: 16px;
+  }
+
+  .ep-text p {
+    font-size: 14px;
+  }
+
+  
+
+
+
+}
+
+
+
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  
+
+  .bnr-text {
+    margin-top: -115px;
+    position: relative;
+  }
+
+  .bnr-text p {
+    font-size: 15px;
+  }
+
+  .navbar ul li a {
+    font-size: 32px;
+  }
+
+
+  /*
+  =================
+   episode-PAGE
+  =================
+   */
+  
+
+  .episode-area {
+    padding: 45px 70px;
+  }
+
+  .episode-all {
+    display: flex;
+    gap: 40px;
+  }
+
+  .ep-text h3, .ep-text h4 {
+    font-size: 16px;
+  }
+
+  .ep-text p {
+    font-size: 14px;
+  }
+
+
+
+
+
+  /*
+  =================
+  about-area
+  =================
+  */
+
+  .about-left .season p br {
+    display: none;
+  }
+
+
+  
+
+
+
+}
+
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  
+
+  .bnr-text {
+    margin-top: -87px;
+    position: relative;
+    padding: 0 15px;
+  }
+
+  .bnr-text p {
+    font-size: 13px;
+    margin: 20px auto 30px;
+  }
+  
+  .bnr-text a {
+    border: 3px solid #fff;
+    right: 15px;
+    bottom: -8px;
+    font-size: 14px;
+  }
+
+  .navbar ul li a {
+    font-size: 32px;
+  }
+
+
+  /*
+  =================
+   episode-PAGE
+  =================
+   */
+  
+  .episode-area {
+    padding: 45px 85px;
+  }
+
+  .episode-all {
+    display: flex;
+    gap: 40px;
+    flex-direction: column;
+  }
+
+  .episode-all > * {
+    width: 100%;
+  }
+
+
+
+
+
+  /*
+  =================
+  about-area
+  =================
+  */
+
+  .about-area {
+    gap: 60px;
+  }
+
+  .about-left .season p br {
+    display: none;
+  }
+
+
+
+
+}
+
+
+@media only screen and (max-width: 767px) {
+  
+
+  .bnr-text p {
+    font-size: 9.5px;
+  }
+
+  .bnr-text a {
+    position: initial;
+    margin-bottom: 30px;
+    font-size: 16px;
+    border-width: 3px;
+  }
+
+  .bnr-text {
+    margin-top: -53px;
+    position: relative;
+    text-align: center;
+  }
+
+  .navbar {
+    background: #F9F7E1;
+    padding: 18px 15px;
+  }
+
+  .navbar ul li a {
+    font-size: 26px;
+  }
+
+
+  /*
+  =================
+   episode-PAGE
+  =================
+   */
+
+  .episode-area {
+    padding: 45px 15px;
+  }
+
+  .episode-all {
+    display: flex;
+    gap: 0px;
+    flex-direction: column;
+  }
+
+  .episode-all > * {
+    width: 100%;
+  }
+
+  .ep-text h3, .ep-text h4 {
+    font-size: 13px;
+    margin-bottom: 8px;
+  }
+
+  .ep-text h3 {
+    margin-bottom: 5px;
+  }
+
+  .ep-text p {
+    font-size: 10px;
+  }
+
+
+
+
+
+  /*
+  =================
+  about-PAGE
+  =================
+  */
+
+  .about-area {
+    padding: 65px 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 100px;
+  }
+
+
+  .about-left {
+    width: 100%;
+  }
+
+  .about-right {
+    width: 100%;
+  }
+
+  .about-left .season p br {
+    display: none;
+  }
+
+
+}
+
+
+
+
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+
+  .bnr-text p {
+    font-size: 14px;
+  }
+
+  .navbar ul li a {
+    font-size: 30px;
+  }
+
+
+  /*
+  =================
+   episode-PAGE
+  =================
+   */
+
+  .ep-text h3, .ep-text h4 {
+    font-size: 20px;
+    margin-bottom: 8px;
+  }
+
+  .ep-text p {
+    font-size: 20px;
+  }
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

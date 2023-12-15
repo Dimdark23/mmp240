@@ -6,7 +6,11 @@
 @media only screen and (min-width: 1680px) {
   
 
-
+  /*
+  =================
+   episode-PAGE
+  =================
+   */
 
    .ep-text {
     padding: 35px 15px;
@@ -22,7 +26,12 @@
 @media only screen and (min-width: 1800px) {
   
 
-  
+  /*
+  =================
+   episode-PAGE
+  =================
+   */
+
    .ep-text {
     padding: 65px 20px;
   }
@@ -42,6 +51,11 @@
   }
 
 
+  /*
+  =================
+   episode-PAGE
+  =================
+   */
 
   .ep-text h3, .ep-text h4 {
     font-size: 21px;
@@ -78,7 +92,11 @@
   }
 
 
-  
+  /*
+  =================
+   episode-PAGE
+  =================
+   */
 
   .ep-text h3, .ep-text h4 {
     font-size: 16px;
@@ -114,7 +132,11 @@
   }
 
 
- 
+  /*
+  =================
+   episode-PAGE
+  =================
+   */
   
 
   .episode-area {
@@ -138,7 +160,11 @@
 
 
 
-
+  /*
+  =================
+  about-area
+  =================
+  */
 
   .about-left .season p br {
     display: none;
@@ -178,7 +204,11 @@
   }
 
 
-  
+  /*
+  =================
+   episode-PAGE
+  =================
+   */
   
   .episode-area {
     padding: 45px 85px;
@@ -198,7 +228,11 @@
 
 
 
- 
+  /*
+  =================
+  about-area
+  =================
+  */
 
   .about-area {
     gap: 60px;
@@ -244,7 +278,11 @@
   }
 
 
-  
+  /*
+  =================
+   episode-PAGE
+  =================
+   */
 
   .episode-area {
     padding: 45px 15px;
@@ -276,6 +314,12 @@
 
 
 
+
+  /*
+  =================
+  about-PAGE
+  =================
+  */
 
   .about-area {
     padding: 65px 15px;
@@ -316,6 +360,11 @@
   }
 
 
+  /*
+  =================
+   episode-PAGE
+  =================
+   */
 
   .ep-text h3, .ep-text h4 {
     font-size: 20px;
